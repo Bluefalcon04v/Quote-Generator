@@ -1,8 +1,10 @@
 # Quote Generator
 
-## Task
- Well i think everyone have some quotes to share so let's us create a page where everyone can **contribute** on it.
+## Needs
+ Well i think everyone have some quotes to share so let's us build a website where everyone will able to **contribute** on it.
 
+## Tasks to do
+- 
 ___
 
 ## Summary 
