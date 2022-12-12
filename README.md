@@ -1,19 +1,19 @@
 # Quote Generator
 
-## Needs
+## Task
  Well i think everyone have some quotes to share so let's us build a website where everyone will able to **contribute** on it and share their favorite quotes. 
-
-## Tasks to do
-- A box where all quotes will be shown.
-- It will keep showing new quotes after a specific time.
-- give a good background with a transparent glass look.
-___
 
 ## Summary 
 In this Repository we have 
 - HTML file
 - CSS file
 - JavaScript file
+
+## Tasks to do
+- A box where all quotes will be shown.
+- It will keep showing new quotes after a specific time.
+- give a good background with a transparent glass look.
+___
 
 ### Run locally
 Steps to run in your Machine
