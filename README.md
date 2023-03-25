@@ -1,23 +1,50 @@
-# Quote Generator
+
+<a href= "https://lazyreader.netlify.app"> <h1> Lazy Reader </h1></a>
+
+
+### link https://lazyreader.netlify.app
+___
+
 
 ## Task
- Well i think everyone have some quotes to share so let's us build a website where everyone will able to **contribute** on it and share their favorite quotes. 
+- I needed a **text reader** because i'm lazy and i love to hear **AUDIOBOOKS** (now you know why i named it as **LazyREADER** 😉)
+- All available text readers have **words limits** on it and they sell the Premium Subcription to remove words limit. 
+- Even after getting Premium Subcription they don't let you to do **customize** the App according to yourself. 
+So that's why i decided to make a **Text Reading Website** by myself. And here i'm!! 😁
+- It's open so that you guys can also **folk** it and use it as you want ❤❤.
+___
 
 ## Summary 
 In this Repository we have 
 - HTML file
 - CSS file
 - JavaScript file
+- image folder
 
-## Tasks to do
-- A box where all quotes will be shown.
-- It will keep showing new quotes after a specific time.
-- give a good background with a transparent glass look.
-___
+### Version 1.0 (*Previous Version*)
+- Box to add Text 
+- A Play button 
+- A Pause Button
+- A Stop Button
+- A Speed controller form (0.5x to 3x)
+
+### Version 1.1 (*Current Version*)
+- Better looking UI
+- Add instruction menu "How to Use"
+- Change the input Box border color respect to play, pause, clear button 
+- Add new button Clear All
+
+### Version 1.2
+*TO Update*
+- Integrate Chat GPT with it for searching purpose
+- Add Multiple voices using AI
+- Add translastor in hindi to english and vice versa 
+- Add a Visual something like siri or add a gif
+***
 
 ### Run locally
 Steps to run in your Machine
-> Run this Command `https://github.com/Bluefalcon04v/Quote-Generator.git`
+> Run this Command `https://github.com/Bluefalcon04v/LazyReader-Project.git`
 > 
 > Run `npm install` 
 > 
@@ -34,5 +61,6 @@ You are now in the dev environment and you can play around
 - CSS
 - Media Query
 - JavaScript
+- Speech Synthesis 
 
 ***
